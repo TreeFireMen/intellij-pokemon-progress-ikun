@@ -4,6 +4,7 @@
 2、新增坤坤打篮球的过度动画，在appearence-pokemon progress中选择Alakazam动画
 
 3、新增坤坤用背打篮球过度动画，选择动画Arceus
+
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/54127694/205450094-dc4f34f2-3c4a-4ab7-b07d-2e1e1a08a95c.png">
 
 

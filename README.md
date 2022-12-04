@@ -10,5 +10,9 @@
 
 设置坤坤步骤：Preferences-Appearance & Behavior-pokémon Progress 中只选择kunkun 和 caicai
 
+颜色主题建议选择 Artemis251
+
+欢迎大家提供更多的坤坤gif图片
+
 
 

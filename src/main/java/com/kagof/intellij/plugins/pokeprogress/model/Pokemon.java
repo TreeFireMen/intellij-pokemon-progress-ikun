@@ -133,6 +133,8 @@ public enum Pokemon {
     SPRIGATITO(906, "sprigatito", -18, -11, 22, PokemonType.GRASS),
     FUECOCO(909, "fuecoco", -15, -9, 22, PokemonType.FIRE),
     QUAXLY(912, "quaxly", -15, -11, 22, PokemonType.WATER),
+    CAICAI(913, "caicai", -16, 0, 27, PokemonType.WATER),
+    XUXU(914,  "xuxu", -24, 0, 27, PokemonType.GRASS),
     // Secret
     MISSINGNO(-1, "missingNo.", -20, 0, 35, true, null, null, PokemonType.NORMAL);
 

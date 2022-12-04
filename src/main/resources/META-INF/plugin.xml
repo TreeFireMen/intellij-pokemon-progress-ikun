@@ -1,8 +1,13 @@
 <idea-plugin>
-    <id>com.kagof.pokeprogress</id>
-    <name>Pokemon Progress</name>
-    <vendor email="karl.goffin@gmail.com" url="https://github.com/kagof">Kagof</vendor>
+    <id>com.hand.ikunProgress</id>
+    <name>IKun Progress</name>
+    <vendor email="zengzijian3@gmail.com" url="https://github.com/TreeFireMen/intellij-pokemon-progress-ikun">TreeFireMen</vendor>
 
+    <description>
+        坤坤是我的偶像，我是一名IKUN
+        我在原来宝可梦的基础上，新增坤坤打篮球的动画效果
+        并且修改宝可梦球改为篮球
+    </description>
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
     <depends>com.intellij.modules.platform</depends>

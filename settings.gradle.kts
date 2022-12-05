@@ -1,2 +1,2 @@
-rootProject.name = "pokemon-progress"
+rootProject.name = "ikun-progress"
 

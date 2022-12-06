@@ -14,6 +14,7 @@ public enum Pokemon {
     // Gen I
     CAICAI(913, "caicai", -16, 0, 27, PokemonType.WATER),
     XUXU(914,  "xuxu", -24, 0, 27, PokemonType.GRASS),
+    KUNKUN(915,  "kunkun", -24, 0, 27, PokemonType.DRAGON),
     // Secret
     MISSINGNO(-1, "missingNo.", -20, 0, 35, true, null, null, PokemonType.NORMAL);
 

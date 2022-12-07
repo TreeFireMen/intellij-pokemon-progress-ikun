@@ -8,9 +8,9 @@
 
 插件安装方法：工程clone之后，选择resources包下plugin包下的jar包，使用install plugin from disk安装
 
-设置坤坤步骤：Preferences-Appearance & Behavior-pokémon Progress 中只选择kunkun 和 caicai
+设置坤坤步骤：Preferences-Appearance & Behavior- Ikun Progress 中选择
 
-颜色主题建议选择 Artemis251
+颜色主题墙裂建议选择 Artemis251
 
 欢迎大家提供更多的坤坤gif图片，也可以提提优化的建议
 

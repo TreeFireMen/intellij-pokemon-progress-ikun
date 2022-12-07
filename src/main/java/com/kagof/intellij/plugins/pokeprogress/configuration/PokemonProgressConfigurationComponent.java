@@ -55,14 +55,14 @@ import com.kagof.intellij.plugins.pokeprogress.theme.PaintThemes;
 
 public class PokemonProgressConfigurationComponent {
     private JPanel mainPanel;
-    final JLabel title = new JLabel("Pok\u00E9mon Progress");
+    final JLabel title = new JLabel("IKun Progress");
     final JProgressBar determinateProgressBar = new JProgressBar(0, 2);
     final JProgressBar indeterminateProgressBar = new JProgressBar();
     private PokemonProgressBarUi determinateUi;
     private PokemonProgressBarUi indeterminateUi;
     private final JComboBox<PaintTheme> theme = new ComboBox<>(PaintThemes.getAll());
     private final JComboBox<ColorScheme> colorScheme = new ComboBox<>(ColorSchemes.getAll());
-    private final JBCheckBox replaceLoaderIcon = new JBCheckBox("Replace loader icon with Pokéball");
+    private final JBCheckBox replaceLoaderIcon = new JBCheckBox("Replace loader icon with BasketBall");
     final JLabel loader = new JLabel(new AnimatedIcon.Default());
     private final JBCheckBox drawSprites = new JBCheckBox("Draw sprites");
     private final JBCheckBox addToolTips = new JBCheckBox("Add tool tips");
@@ -74,7 +74,7 @@ public class PokemonProgressConfigurationComponent {
     private final Map<Generation, ThreeStateCheckBox> genToggleCheckBoxes = new EnumMap<>(Generation.class);
     private final JButton selectAll = new JButton("Select all");
     private final JButton deselectAll = new JButton("Deselect all");
-    private final JLabel label = new JLabel("?/? Pokémon selected");
+    private final JLabel label = new JLabel("?/? Ikun selected");
     private final AtomicInteger numSelected = new AtomicInteger(0);
     private final JSlider initialVelocity = new JSlider(1, 500, 100);
     private final JSlider acceleration = new JSlider(1, 500, 40);

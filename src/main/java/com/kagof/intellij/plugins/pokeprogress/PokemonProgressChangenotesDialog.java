@@ -19,7 +19,7 @@ public class PokemonProgressChangenotesDialog extends DialogWrapper {
 
     public PokemonProgressChangenotesDialog(@Nullable final Project project) {
         super(project);
-        setTitle("Pok\u00E9mon Progress Changenotes");
+        setTitle("Ikun Progress Changenotes");
         init();
 
     }

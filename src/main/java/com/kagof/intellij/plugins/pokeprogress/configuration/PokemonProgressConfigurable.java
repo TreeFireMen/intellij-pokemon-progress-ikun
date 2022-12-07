@@ -14,7 +14,7 @@ public class PokemonProgressConfigurable implements Configurable {
     @Nls
     @Override
     public String getDisplayName() {
-        return "Pok\u00E9mon Progress";
+        return "Ikun Progress";
     }
 
     @Override

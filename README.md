@@ -2,9 +2,8 @@
 
 1、宝可梦的玩具球换成坤坤的篮球  
 
-2、新增坤坤打篮球的过度动画--kunkun
+2、新增坤坤打篮球的过度动画--caicai/xuxu/kunkun.gif
 
-3、新增坤坤背打篮球过度动画--caicai
 
 插件安装方法：工程clone之后，选择resources包下plugin包下的jar包，使用install plugin from disk安装
 

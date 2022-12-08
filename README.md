@@ -5,9 +5,7 @@
 2、新增坤坤打篮球的过度动画--caicai/xuxu/kunkun.gif
 
 
-插件安装方法：工程clone之后，选择resources包下plugin包下的jar包，使用install plugin from disk安装
-
-设置坤坤步骤：Preferences-Appearance & Behavior- Ikun Progress 中选择
+插件应用市场搜索：Ikun Progress 安装即可
 
 颜色主题墙裂建议选择 Artemis251
 

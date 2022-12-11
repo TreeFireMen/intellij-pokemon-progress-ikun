@@ -8,6 +8,9 @@
 插件应用市场搜索：Ikun Progress 安装即可
 
 颜色主题墙裂建议选择 Artemis251
+<img width="1255" alt="image" src="https://user-images.githubusercontent.com/54127694/206905094-e42c241b-4244-47c1-a9af-eb2cf5521359.png">
+
+<img width="984" alt="image" src="https://user-images.githubusercontent.com/54127694/206905112-49f72b93-6df3-4ad9-bffa-ffe63fb0715c.png">
 
 欢迎大家提供更多的坤坤gif图片，也可以提提优化的建议
 

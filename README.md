@@ -13,6 +13,11 @@
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/54127694/206905112-49f72b93-6df3-4ad9-bffa-ffe63fb0715c.png">
 
+偏好设置：
+
+![image](https://github.com/TreeFireMen/intellij-pokemon-progress-ikun/assets/54127694/098415b6-10b5-4fb4-9173-add56ea48442)
+
+
 欢迎大家提供更多的坤坤gif图片，也可以提提优化的建议
 
 
